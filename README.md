@@ -9,19 +9,19 @@ Popular open source big data projects
 
 ### Distributed Computing
 * Hadoop MapReduce
-* Storm
-* Spark
-* Flink
+* Storm _Hortonworks/Yahoo_
+* Spark _Databricks_
+* Flink _dataArtisans_
 
 ### Distributed Message System
-* Kafka
+* Kafka _Confluent_
 
 ### SQL
 * Hive
 
 ### Search
 * Solr
-* ElasticSearch
+* ElasticSearch _Elastic_
 
 ### Distributed Coordination
 * Zookeeper
@@ -31,14 +31,14 @@ Popular open source big data projects
 * Flume
 
 ### Others
-* Apex
-* Alluxio
+* Apex _DataTorrent_
+* Alluxio _Alluxio_
 * Beam
 * Presto
 * Impala
 * Mesos
 * Samza
-* Kylin
+* Kylin _Kyligence_
 * GearPump
 * Pig
 * Oozie
