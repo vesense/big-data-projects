@@ -15,6 +15,7 @@ Popular open source big data projects
 
 ### Distributed Message System
 * Kafka _Confluent_
+* RocketMQ
 
 ### SQL
 * Hive
@@ -30,10 +31,13 @@ Popular open source big data projects
 ### Ingestion
 * Flume
 
+### APIs
+* Beam
+* OpenMessaging
+
 ### Others
 * Apex _DataTorrent_
 * Alluxio _Alluxio_
-* Beam
 * Presto
 * Impala
 * Mesos
