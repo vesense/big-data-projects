@@ -64,7 +64,7 @@ Popular open source big data projects
 * Nginx
 * Tomcat
 * MySQL
-* Reids
+* Redis
 * HAProxy
 * ActiveMQ
 * Memcached
