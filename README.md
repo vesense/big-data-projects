@@ -8,14 +8,14 @@ Popular open source big data projects
 * HBase
 
 ### Distributed Computing
-* Hadoop MapReduce
-* Storm _Hortonworks/Yahoo_
+* Hadoop MapReduce _Cloudera_
+* Storm _Yahoo_
 * Spark _Databricks_
-* Flink _dataArtisans_
+* Flink _Ververica_
 
 ### Distributed Message System
 * Kafka _Confluent_
-* RocketMQ
+* RocketMQ _Alibaba_
 
 ### SQL
 * Hive
